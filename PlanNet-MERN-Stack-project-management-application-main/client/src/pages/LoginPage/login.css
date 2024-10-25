@@ -1,0 +1,50 @@
+.bbg{
+    height: 100% !important;
+    background-image: url("../../../assets/images/loginpage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.inputlogin{
+
+    outline: none;
+    border-radius: 40px;
+    padding: 8px !important;
+    border: none;
+    background-color: #D9D9D9;
+    margin-top: 10px !important;
+    width: 350px;
+
+}
+
+.inplogin{
+    outline: none;
+    border: none;
+    background-color: #D9D9D9;
+
+
+}
+
+.loginbutton{
+    padding: 8px !important;
+    border-radius: 50px;
+    border: none;
+    background-color: #70B554;
+    color: white;
+    width: 350px;
+    color: white;
+    margin-top: 25px !important;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+.linktologin{
+    margin-top: 20px !important;
+    text-decoration: none;
+    font-weight: bold;
+    color: #485662;
+}

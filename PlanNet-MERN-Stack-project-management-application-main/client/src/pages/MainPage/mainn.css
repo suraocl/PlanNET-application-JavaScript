@@ -1,0 +1,82 @@
+.main{
+    height: 100vh;
+
+}
+.tarihbox{
+    width: 120px;
+    height: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.line1{
+    border-bottom: 1px solid rgb(153, 152, 152);
+    height: 135px;
+
+}
+
+
+.mainbutton{
+    padding: 8px !important;
+    border: none;
+    background-color: #70B554 ;
+    color: white;
+    margin-top: 10px !important;
+    border-radius: 40px;
+    font-weight: bold;
+
+
+}
+
+
+.mainbutton:hover{
+    background-color: #4e7e3b;
+}
+.mainbutton:active{
+    background-color: #305024;
+}
+
+.row{
+    height: calc(100vh - 135px);
+}
+
+.border-right{
+    border-right: 1px solid rgb(153, 152, 152);
+
+}
+
+
+.eachproject{
+    z-index: 999;
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px -5px rgba(0, 0, 0, 0.5), 5px 0 5px -5px rgba(0, 0, 0, 0.5), -5px 0 5px -5px rgba(0, 0, 0, 0.5);
+   overflow: hidden;
+
+}
+
+.ssss{
+    max-height: calc(100vh - 135px);
+}
+
+.eachprojecttop{
+    height: 60%;
+    width: 100%;
+    background-color: #D2E3C8;
+    z-index: 1;
+    border-radius: 20px;
+}
+
+.eachprojectbottom{
+    height: 40% ;
+    width: 100%;
+}
+
+.plus {
+    position: fixed;
+    bottom: 40px; /* Adjust the bottom position as needed */
+    right: 40px; /* Adjust the right position as needed */
+    z-index: 99999; /* Set a high z-index to ensure it appears above other elements */
+    cursor: pointer;
+}

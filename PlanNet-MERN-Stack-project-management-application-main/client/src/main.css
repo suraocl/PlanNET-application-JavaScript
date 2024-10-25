@@ -1,0 +1,61 @@
+#root , body , html , .aaaa{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.cp{
+    cursor: pointer;
+}
+
+.iconnn{
+    color: #70B554;
+}
+.iconnn:hover{
+    color: #579041;
+}
+.iconnn:active{
+    color: #395d2b;
+}
+
+.btnn{
+    background-color: #70B554;
+}
+.btnn:hover{
+    background-color: #579041;
+}
+.btnn:active{
+    background-color: #395d2b;
+}
+
+
+.grnn:hover{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.grnn:active{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+/*
+.grn{
+    background-color: #D2E3C8;
+}
+.grn:hover{
+    background-color: #b4db9d;
+}
+.grn:active{
+    background-color: #7aa163;
+}*/

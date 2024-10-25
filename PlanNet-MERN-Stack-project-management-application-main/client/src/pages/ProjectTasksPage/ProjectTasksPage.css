@@ -1,0 +1,126 @@
+.eachtaskprojects{
+    width: 500px;
+    height: 300px;
+    background-color: #D2E3C8;
+    border-radius: 30px;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.deee{
+    max-height: 99%;
+}
+
+.addtask{
+    background-color: #D2E3C8;
+    padding: 40px !important;
+    border-radius: 30px;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.colored{
+    font-size: larger;
+    color: #485662;
+}
+.coloredd{
+    font-weight: bold;
+    color: #485662;
+}
+
+.boxx1{
+    width: 80%;
+    height: 60%;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.3);
+    padding: 10px !important;
+}
+
+.w-60{
+    width: 60%;
+}
+
+.aad{
+    width: 80%;
+    margin-top: 5px !important;
+}
+
+.selecting{
+    width: 80%;
+    border: none;
+    outline: none;
+}
+
+.eklelabel{
+    background-color: white;
+    padding: 5px !important;
+    width: 80%;
+    border-radius: 30px;
+    margin-top: 10px !important;
+
+}
+.ekleinput{
+    width: 80%;
+    border: none;
+    outline: none;
+}
+input{
+    border: none;
+    outline: none;
+}
+.ekleinputt{
+    width: 100%;
+}
+
+.react-datepicker__input-container{
+    width: 100%;
+    border: none;
+    outline: none;
+
+}
+
+.react-datepicker-wrapper{
+    width: 80%;
+}
+
+.textareeaa{
+    width: 80%;
+    outline: none;
+    border: none;
+    margin-top: 10px !important;
+    border-radius: 30px;
+    resize: none;
+    padding: 15px !important;
+}
+.textareeaaa{
+    width: 80%;
+    height: 50%;
+    outline: none;
+    border: none;
+    margin-top: 10px !important;
+    border-radius: 30px;
+    resize: none;
+    padding: 10px !important;
+}
+
+
+.buttoncreatee{
+    width: 80%;
+    margin-top: 10px !important;
+    border: none;
+    background-color: #70B554;
+    padding: 5px 0px 5px 0px !important;
+    color: white;
+    border-radius: 30px;
+
+}
+.backk{
+    background-image: url("../../../assets/images/checked.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    
+    background-position: center;
+}
+
+.mr-5{
+    margin-left: 10px !important;
+}

@@ -1,0 +1,51 @@
+.empdetailouter{
+    width: 90%;
+    height: 90%;
+    background: #D2E3C8;
+    border-radius: 30px;
+    padding: 25px !important;
+    padding-left: 80px !important;
+    padding-right: 80px !important; 
+}
+
+.daf{
+    min-height: 90%;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 145px;
+    background-color: white;
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    padding: 10px !important;
+
+}
+.empbottom{
+    height: 99%;
+}
+.bottomtop{
+    display: flex;
+
+    justify-content: space-around;
+    text-align: center;
+}
+.bottombottom{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.btnbottom{
+    width: 40%;
+    background-color: #70B554;
+    border-radius: 30px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 5px !important;
+    
+}
